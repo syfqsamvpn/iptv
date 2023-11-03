@@ -1,51 +1,51 @@
 #EXTM3U
-#EXTINF:-1 group-title="RTM" ch-number="RTMK01" tvg-id="RTMK01" tvg-chno="RTMK01" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv1.jpg",TV1
+#EXTINF:-1 group-title="MALAYSIA" ch-number="RTMK01" tvg-id="RTMK01" tvg-chno="RTMK01" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv1.jpg",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK02" tvg-id="RTMK02" tvg-chno="RTMK02" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv2.jpg",TV2
+#EXTINF:-1 group-title="MALAYSIA" ch-number="RTMK02" tvg-id="RTMK02" tvg-chno="RTMK02" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv2.jpg",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK03" tvg-id="RTMK03" tvg-chno="RTMK03" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/okey.jpg",TV Okey
+#EXTINF:-1 group-title="MALAYSIA" ch-number="RTMK03" tvg-id="RTMK03" tvg-chno="RTMK03" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/okey.jpg",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK04" tvg-id="RTMK04" tvg-chno="RTMK04" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/berita_rtm.jpg",Berita RTM
+#EXTINF:-1 group-title="MALAYSIA" ch-number="RTMK04" tvg-id="RTMK04" tvg-chno="RTMK04" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/berita_rtm.jpg",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK05" tvg-id="RTMK05" tvg-chno="RTMK05" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/sukan_rtm.jpg",Sukan RTM
+#EXTINF:-1 group-title="MALAYSIA" ch-number="RTMK05" tvg-id="RTMK05" tvg-chno="RTMK05" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/sukan_rtm.jpg",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK06" tvg-id="RTMK06" tvg-chno="RTMK06" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv6.jpg",TV6
+#EXTINF:-1 group-title="MALAYSIA" ch-number="RTMK06" tvg-id="RTMK06" tvg-chno="RTMK06" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv6.jpg",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK07" tvg-id="RTMK07" tvg-chno="RTMK07" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/dewan_rakyat.jpg",Dewan Rakyat
+#EXTINF:-1 group-title="MALAYSIA" ch-number="RTMK07" tvg-id="RTMK07" tvg-chno="RTMK07" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/dewan_rakyat.jpg",Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK08" tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/dewan_negara.jpg",Dewan Negara
+#EXTINF:-1 group-title="MALAYSIA" ch-number="RTMK08" tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/dewan_negara.jpg",Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
-#EXTINF:-1 group-title="TONTON" ch-number="TV03" tvg-id="TV03" tvg-chno="TV03" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv3.png",TV3
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8?exp=1699025040&hmac=0x565ee9cfddff2efcad120d5cb188417d42dc5bf0ff4120aaab0bcfb682389fbf
+#EXTINF:-1 group-title="MALAYSIA" ch-number="TV03" tvg-id="TV03" tvg-chno="TV03" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv3.png",TV3
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8?exp=1699046456&hmac=0xf4440be4934fb564e920f8e82521100af3ace70380ff966a7ad770036dfdd646
 
-#EXTINF:-1 group-title="TONTON" ch-number="TV09" tvg-id="TV09" tvg-chno="TV09" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv9.png",TV9
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8?exp=1699025340&hmac=0x8f5ee34ca83deae8d0c6024b7babe2b7c34239c7673d99475fc1998b299977a4
+#EXTINF:-1 group-title="MALAYSIA" ch-number="DIDIKTV" tvg-id="DIDIKTV" tvg-chno="DIDIKTV" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/didik_tv.png",Didik TV
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2.m3u8?exp=1699046456&hmac=0x80e8dd9f477f887569d86228f76226f859975a435f380b0e9a994da905c79781
 
-#EXTINF:-1 group-title="TONTON" ch-number="DIDIKTV" tvg-id="DIDIKTV" tvg-chno="DIDIKTV" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/didik_tv.png",Didik TV
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8?exp=1699024484&hmac=0x292735bbb7d0d14afba567dcc89badb404e9275741a443ef10919590d96ec0be
+#EXTINF:-1 group-title="MALAYSIA" ch-number="TV08" tvg-id="TV08" tvg-chno="TV08" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv8.png",TV8
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8?exp=1699046457&hmac=0x3ea948e67e8e5aac009f48a61e451e2a2c91b700fc47431941298495752fbffc
 
-#EXTINF:-1 group-title="TONTON" ch-number="TV08" tvg-id="TV08" tvg-chno="TV08" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv8.png",TV8
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8?exp=1699024543&hmac=0xc550a1993208581b25fb0f260e97d231d3b224088e8859d273633c1de3887d89
+#EXTINF:-1 group-title="MALAYSIA" ch-number="TV09" tvg-id="TV09" tvg-chno="TV09" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv9.png",TV9
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8?exp=1699046457&hmac=0xc1a1e23b3404480219c704c0b8e239ef442f0eca6e068d34d001004b06b5ccca
 
-#EXTINF:-1 group-title="TONTON" ch-number="DRAMASANGAT" tvg-id="DRAMASANGAT" tvg-chno="DRAMASANGAT" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/drama_sangat.jpeg",Drama Sangat
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8?exp=1699024615&hmac=0x1ef074bef578b654821a494b390198e420e9e8a8b9b6d525d6b316f45e902544
+#EXTINF:-1 group-title="MALAYSIA" ch-number="DRAMASANGAT" tvg-id="DRAMASANGAT" tvg-chno="DRAMASANGAT" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/drama_sangat.jpeg",Drama Sangat
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8?exp=1699046457&hmac=0x1ff2c65ca8bf0b998889d01a7ce5999fed1bd269015a07889166ba6029163e5a
 
-#EXTINF:-1 group-title="TONTON" ch-number="GEM" tvg-id="GEM" tvg-chno="GEM" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/gem.png",GEM
-https://live-sg3.global.ssl.fastly.net/live-hls/tonton9_720p/index.m3u8?exp=1699026592&hmac=0x9b0a7a74e76db0165d3f2bccd09d9f5be6bd50136fa03361ac33c97cbdfd138e
+#EXTINF:-1 group-title="MALAYSIA" ch-number="TVN" tvg-id="TVN" tvg-chno="TVN" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tvn.png",TVN
+https://live-sg3.global.ssl.fastly.net/live-hls/tonton6.m3u8?exp=1699046458&hmac=0x5def0ffea5f687a65ba8afc9e4d2c103c7b6e9871463e47eaed86cce0805fa9f
 
-#EXTINF:-1 group-title="TONTON" ch-number="TVN" tvg-id="TVN" tvg-chno="TVN" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tvn.png",TVN
-https://live-sg3.global.ssl.fastly.net/live-hls/tonton6_720p/index.m3u8?exp=1699027025&hmac=0xa78a8d1358cf191b3e3e41007fc5f85a0cd33078a74c39e05d8047aeb4afbe29
+#EXTINF:-1 group-title="MALAYSIA" ch-number="TVN_MOVIES" tvg-id="TVN_MOVIES" tvg-chno="TVN_MOVIES" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tvn_movies.png",tvN Movies
+https://live-sg3.global.ssl.fastly.net/live-hls/tonton7.m3u8?exp=1699046458&hmac=0x8a496d92c50c23fafa9af174d76f8fb7902999c8f9519794d5f3d139772dcc4f
 
-#EXTINF:-1 group-title="TONTON" ch-number="TVN_MOVIES" tvg-id="TVN_MOVIES" tvg-chno="TVN_MOVIES" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tvn_movies.png",tvN Movies
-https://live-sg3.global.ssl.fastly.net/live-hls/tonton7_720p/index.m3u8?exp=1699027960&hmac=0x31fa7a1c50c3452f41128d3a21e1955789a791fa43e243858f52031b9c840d85
+#EXTINF:-1 group-title="MALAYSIA" ch-number="ANIMAX" tvg-id="ANIMAX" tvg-chno="ANIMAX" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/animax.png",ANIMAX
+https://live-sg3.global.ssl.fastly.net/live-hls/tonton8.m3u8?exp=1699046459&hmac=0x8f5d69d86bb085a6e22205a8fbc505f7bc316e9d533f96f49bc4a72b7904458a
 
-#EXTINF:-1 group-title="TONTON" ch-number="ANIMAX" tvg-id="ANIMAX" tvg-chno="ANIMAX" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/animax.png",ANIMAX
-https://live-sg3.global.ssl.fastly.net/live-hls/tonton8_720p/index.m3u8?exp=1699028160&hmac=0x2bea2e61dbd161ac484772b1e9ddb26d2db2a20757c5270708ca3f93aa6ecbf7
+#EXTINF:-1 group-title="MALAYSIA" ch-number="GEM" tvg-id="GEM" tvg-chno="GEM" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/gem.png",GEM
+https://live-sg3.global.ssl.fastly.net/live-hls/tonton9.m3u8?exp=1699046459&hmac=0xa299a6482c5ef00bd728bd89bec08a5bdd42ac39476daa639f894d61cac146b2
