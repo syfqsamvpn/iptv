@@ -24,7 +24,17 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
 #EXTINF:-1 group-title="TONTON" ch-number="TV03" tvg-id="TV03" tvg-chno="TV03" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv3.png",TV3
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8?exp=1699002814&hmac=0x28203ea7607c5840f5bc8363047cc98d7fbff162f6576d3275fd7830a4e19062
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8?exp=1699025040&hmac=0x565ee9cfddff2efcad120d5cb188417d42dc5bf0ff4120aaab0bcfb682389fbf
 
 #EXTINF:-1 group-title="TONTON" ch-number="TV09" tvg-id="TV09" tvg-chno="TV09" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv9.png",TV9
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8?exp=1699023593&hmac=0x6991626dc6142ee51c5bb69b5dcd2ac274e56f962dba137e219dfaad5b602651
+
+#EXTINF:-1 group-title="TONTON" ch-number="DIDIKTV" tvg-id="DIDIKTV" tvg-chno="DIDIKTV" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/didik_tv.png",Didik TV
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8?exp=1699024484&hmac=0x292735bbb7d0d14afba567dcc89badb404e9275741a443ef10919590d96ec0be
+
+#EXTINF:-1 group-title="TONTON" ch-number="TV08" tvg-id="TV08" tvg-chno="TV08" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/tv8.png",TV8
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8?exp=1699024543&hmac=0xc550a1993208581b25fb0f260e97d231d3b224088e8859d273633c1de3887d89
+
+#EXTINF:-1 group-title="TONTON" ch-number="DRAMASANGAT" tvg-id="DRAMASANGAT" tvg-chno="DRAMASANGAT" tvg-logo="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/logo/drama_sangat.jpeg",Drama Sangat
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8?exp=1699024615&hmac=0x1ef074bef578b654821a494b390198e420e9e8a8b9b6d525d6b316f45e902544
+
